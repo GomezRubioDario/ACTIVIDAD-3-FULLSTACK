@@ -1,0 +1,9 @@
+Adivinanzas  
+            "Negro simiente, tostad0 al carbón, potente aliciente, energía marrón",
+            "Tengo llaves pero no cerradura. El blanco y el negro pasan por mi cintura",
+            "¿Quién es algo y nada a la vez?",
+
+Respuestas
+            "corteza" , "chocolate", "cucaracha", "café", "madera", "cuero"
+            "cofre del tesóro", "auto", "candado", "karate", "html"; "corazón"
+            "silencio" , "ramón", "pensamiento", "pez", "zapallo", "otro pez"
